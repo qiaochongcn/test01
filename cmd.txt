@@ -1,0 +1,5 @@
+G\ git config --global user.name 'qiaochongcn'
+G\ git config --global user.email 'qiaochongcn@foxmail.com'
+git add aaa.py
+git status
+git commit -m 'add aaa.py'
